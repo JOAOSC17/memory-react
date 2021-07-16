@@ -1,5 +1,5 @@
 # Jogo da Memória Com React
-Um website simple de um jogo da memoria feito com ReactJS
+Um website simples de um jogo da memória feito com ReactJS.
 ## 🚀 Tecnologias Usadas
 - HTML
 - CSS 
@@ -14,4 +14,4 @@ Um website simple de um jogo da memoria feito com ReactJS
 
 ---
 
-Feito com ♥ por João Costa :wave: [Toca aqui!](https://www.linkedin.com/in/joaocosta123/)
+Feito com ♥ por João Costa :wave: [Toca aqui!](https://www.linkedin.com/in/joaosc17/)
